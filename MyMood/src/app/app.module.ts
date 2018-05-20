@@ -12,9 +12,9 @@ import { AppComponent } from './app.component';
 
 const config = {
   apiKey: "AIzaSyD6E9OYBX72KCRcnwPAzDjVy8MmDbbEgfw",
-  authDomain: "stackblitzfire.firebaseapp.com",
-  databaseURL: "https://naseerm-a7e01.firebaseio.com",
-  storageBucket: "stackblitzfire.appspot.com",
+  authDomain: "afzaal.firebaseapp.com",
+  databaseURL: "https://mood-db.firebaseio.com",
+  storageBucket: "afzaal.appspot.com",
   messagingSenderId: "42917465053"
 };
 
@@ -31,3 +31,4 @@ const config = {
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+
